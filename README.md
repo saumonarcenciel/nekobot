@@ -6,7 +6,7 @@ CatGirl Bot is a simple Discord bot that sends random catgirl images in an embed
 
 - Sends a random catgirl image in an embed.
 - Uses an API to fetch catgirl images.
-- Easy-to-use slash command `/catgirl`.
+- Easy-to-use slash command `/neko`.
 
 ## 💻 Prerequisites
 
