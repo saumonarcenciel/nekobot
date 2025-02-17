@@ -1,20 +1,20 @@
-# CatGirl Bot
+# 🐱 CatGirl Bot
 
-CatGirl Bot is a simple Discord bot that sends random catgirl images in an embed when invoked with a slash command.
+CatGirl Bot is a simple Discord bot that sends random catgirl images in an embed when invoked with a slash command. (It's useless, but hey, why not ? I was bored).
 
-## Features
+## 🎨 Features
 
 - Sends a random catgirl image in an embed.
 - Uses an API to fetch catgirl images.
 - Easy-to-use slash command `/catgirl`.
 
-## Prerequisites
+## 💻 Prerequisites
 
 - Python 3.8 or higher.
 - A Discord bot configured with necessary permissions.
 - A `config.json` file with required settings.
 
-## Installation
+# 💫 Installation
 
 1. **Clone the repository:**
 ```
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 4. **Run the bot:**
 
 
-## Usage
+## 🛠 Usage
 
 - Invite the bot to your Discord server.
 - Use the `/catgirl` command in any text channel to receive a random catgirl image in an embed.
@@ -62,7 +62,7 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Open a Pull Request.
 
 
-## Contact
+## 📩 Contact
 
 For any questions or suggestions, please open an issue or contact talk@saumon.me
 
