@@ -18,7 +18,7 @@ CatGirl Bot is a simple Discord bot that sends random catgirl images in an embed
 
 1. **Clone the repository:**
 ```
-git clone https://github.com/your-username/catgirl-bot.git
+git clone https://github.com/saumonarcenciel/nekobot.git
 cd catgirl-bot
 ```
 
